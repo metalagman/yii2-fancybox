@@ -1,0 +1,16 @@
+{
+    "name": "lagman/yii2-fancybox",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Samoylov",
+            "email": "alexey.samoylov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php":">=5.4.0",
+		"yiisoft/yii2": "*",
+		"yiisoft/jquery": ">1.7",
+    }
+}
