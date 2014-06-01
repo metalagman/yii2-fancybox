@@ -11,7 +11,8 @@
     "require": {
 		"php":">=5.4.0",
 		"yiisoft/yii2": "*",
-		"yiisoft/jquery": ">1.7"
+		"yiisoft/jquery": ">1.7",
+		"lagman/fancybox": "dev-master",
     },
 	"autoload": {
         "psr-4": {
